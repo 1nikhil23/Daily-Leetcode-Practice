@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -21,6 +22,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
