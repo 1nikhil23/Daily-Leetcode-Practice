@@ -13,6 +13,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -77,4 +79,9 @@
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Two Pointers
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
