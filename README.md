@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0322-coin-change](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0322-coin-change) |
 | [0560-subarray-sum-equals-k](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0053-maximum-subarray) |
+| [0322-coin-change](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0322-coin-change) |
 | [2063-vowels-of-all-substrings](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2063-vowels-of-all-substrings) |
 ## Hash Table
 |  |
@@ -84,4 +86,8 @@
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
