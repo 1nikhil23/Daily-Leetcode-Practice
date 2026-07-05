@@ -64,6 +64,7 @@
 ## Math
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0371-sum-of-two-integers) |
 | [2063-vowels-of-all-substrings](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2063-vowels-of-all-substrings) |
 ## Combinatorics
 |  |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0136-single-number) |
+| [0371-sum-of-two-integers](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0371-sum-of-two-integers) |
 ## Greedy
 |  |
 | ------- |
