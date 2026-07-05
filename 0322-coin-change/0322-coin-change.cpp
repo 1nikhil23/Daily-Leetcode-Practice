@@ -6,9 +6,10 @@ public:
         dp[0] = 0;
         for (int i = 1; i<=amount; i++) {
 
-            for (int coin : coins) {
+            for (int j=0;j<coins.size();j++) {
+                int coin = coins[j];
 
-                if (coin <= i) {
+                if (i-coin >= 0) {
                     dp[i] = min(dp[i], dp[i - coin] + 1);
                 }
             }
