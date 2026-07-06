@@ -96,6 +96,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0322-coin-change) |
 ## Linked List
 |  |
@@ -107,4 +108,16 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0206-reverse-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
