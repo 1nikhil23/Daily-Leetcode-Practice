@@ -97,4 +97,12 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0322-coin-change) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
