@@ -44,6 +44,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2063-vowels-of-all-substrings](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2063-vowels-of-all-substrings) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0371-sum-of-two-integers) |
 | [2063-vowels-of-all-substrings](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2063-vowels-of-all-substrings) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Combinatorics
 |  |
 | ------- |
