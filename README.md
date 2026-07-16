@@ -69,6 +69,7 @@
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0371-sum-of-two-integers) |
 | [2063-vowels-of-all-substrings](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2063-vowels-of-all-substrings) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
