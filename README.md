@@ -11,6 +11,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0322-coin-change](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -133,8 +134,10 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
