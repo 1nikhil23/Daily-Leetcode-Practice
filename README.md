@@ -12,6 +12,7 @@
 | [0136-single-number](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0322-coin-change](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0496-next-greater-element-i) |
@@ -72,6 +73,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
