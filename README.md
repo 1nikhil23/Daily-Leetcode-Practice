@@ -18,6 +18,7 @@
 | [0496-next-greater-element-i](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0875-koko-eating-bananas](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -76,6 +77,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0875-koko-eating-bananas](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0875-koko-eating-bananas) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
