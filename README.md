@@ -23,6 +23,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2951-find-the-peaks](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -154,4 +155,8 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
