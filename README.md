@@ -96,6 +96,7 @@
 | [2063-vowels-of-all-substrings](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2063-vowels-of-all-substrings) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3870-count-commas-in-range](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3871-count-commas-in-range-ii) |
 ## Combinatorics
 |  |
 | ------- |
