@@ -126,6 +126,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0322-coin-change](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0322-coin-change) |
 ## Linked List
 |  |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -151,6 +153,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Stack
 |  |
