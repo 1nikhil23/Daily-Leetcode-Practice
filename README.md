@@ -27,6 +27,7 @@
 | [2951-find-the-peaks](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3483-unique-3-digit-even-numbers](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
@@ -50,6 +51,7 @@
 | [2395-find-subarrays-with-equal-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3483-unique-3-digit-even-numbers](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Prefix Sum
 |  |
@@ -138,6 +140,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0206-reverse-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Tree
 |  |
 | ------- |
@@ -173,4 +176,5 @@
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2951-find-the-peaks) |
+| [3483-unique-3-digit-even-numbers](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
