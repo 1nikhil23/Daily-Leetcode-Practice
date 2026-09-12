@@ -152,6 +152,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -161,6 +162,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -171,6 +173,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Stack
 |  |
@@ -189,4 +192,8 @@
 | ------- |
 | [2951-find-the-peaks](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2951-find-the-peaks) |
 | [3483-unique-3-digit-even-numbers](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
