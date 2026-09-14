@@ -14,6 +14,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -80,6 +82,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0875-koko-eating-bananas) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -95,6 +98,7 @@
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0371-sum-of-two-integers) |
 | [2063-vowels-of-all-substrings](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2063-vowels-of-all-substrings) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -109,6 +113,7 @@
 | ------- |
 | [0136-single-number](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0371-sum-of-two-integers) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Greedy
@@ -118,6 +123,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0268-missing-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
