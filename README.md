@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0053-maximum-subarray) |
@@ -123,6 +124,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0018-4sum) |
 | [0268-missing-number](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0268-missing-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -130,6 +132,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0018-4sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Breadth-First Search
 |  |
