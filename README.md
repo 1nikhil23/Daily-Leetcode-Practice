@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0541-reverse-string-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0541-reverse-string-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2063-vowels-of-all-substrings](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2063-vowels-of-all-substrings) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0018-4sum) |
+| [0541-reverse-string-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0541-reverse-string-ii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Breadth-First Search
 |  |
