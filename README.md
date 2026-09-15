@@ -142,6 +142,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0322-coin-change) |
 ## Linked List
 |  |
@@ -165,6 +166,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -176,6 +178,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -189,6 +192,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Stack
