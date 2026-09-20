@@ -77,6 +77,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2063-vowels-of-all-substrings](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2063-vowels-of-all-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
@@ -248,4 +249,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
