@@ -32,6 +32,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3483-unique-3-digit-even-numbers](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
@@ -114,6 +115,7 @@
 | [0268-missing-number](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0371-sum-of-two-integers) |
 | [2063-vowels-of-all-substrings](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2063-vowels-of-all-substrings) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3870-count-commas-in-range](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3871-count-commas-in-range-ii) |
