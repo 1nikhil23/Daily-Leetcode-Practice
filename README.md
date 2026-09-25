@@ -17,6 +17,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0322-coin-change) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -52,6 +53,7 @@
 | [0001-two-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -94,6 +96,7 @@
 | [0162-find-peak-element](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0875-koko-eating-bananas](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -141,6 +144,7 @@
 | ------- |
 | [0018-4sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0018-4sum) |
 | [0268-missing-number](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -148,6 +152,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0018-4sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0541-reverse-string-ii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Breadth-First Search
