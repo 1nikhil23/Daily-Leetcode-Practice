@@ -81,6 +81,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0541-reverse-string-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0541-reverse-string-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2063-vowels-of-all-substrings](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2063-vowels-of-all-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -237,6 +238,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -270,4 +272,8 @@
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3498-reverse-degree-of-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
