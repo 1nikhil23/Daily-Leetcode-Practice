@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0136-single-number](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -41,6 +42,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 | [0001-two-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0268-missing-number](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0496-next-greater-element-i) |
@@ -191,6 +194,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
@@ -226,6 +230,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
