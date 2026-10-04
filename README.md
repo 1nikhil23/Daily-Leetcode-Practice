@@ -52,6 +52,7 @@
 | [0053-maximum-subarray](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0322-coin-change) |
+| [0678-valid-parenthesis-string](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2063-vowels-of-all-substrings](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2063-vowels-of-all-substrings) |
 ## Hash Table
@@ -91,6 +92,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0541-reverse-string-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0541-reverse-string-ii) |
+| [0678-valid-parenthesis-string](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -151,6 +153,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
@@ -260,6 +263,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -301,6 +305,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
