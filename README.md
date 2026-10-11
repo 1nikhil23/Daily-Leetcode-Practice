@@ -31,6 +31,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2951-find-the-peaks](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -274,6 +275,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/2951-find-the-peaks) |
 | [3483-unique-3-digit-even-numbers](https://github.com/1nikhil23/Daily-Leetcode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## DP on Trees
